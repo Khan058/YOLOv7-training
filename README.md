@@ -246,3 +246,5 @@ python detect.py --weights best.pt --conf 0.5 --img-size 640 --source data --vie
 1. Replace data in the --source to the data you are performing tests on
 
 After pressing enter the model would start the test and when it is done it would show the path where the results are saved. 
+
+![](./images/testing.png)
